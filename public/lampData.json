@@ -1,0 +1,134 @@
+
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "ULTRABOOST LAMP01",
+      "price": 420,
+      "stock": 20,
+      "ratings": 4,
+      "img" : "https://ibb.co/fkTXnMJ",
+      "shipping": 1,
+      "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP02",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/0M6YLDz",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP03",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/TvkNXTG",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP04",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/cLcLybw",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP05",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/ZmgBWj7",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP06",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/BKsMZ6P",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP07",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/7Gy9hTQ",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP08",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/mzVN0PV",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP09",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/9hK8M9C",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP10",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/VSWmbPt",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP11",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/MDZ3gwY",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP12",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/Cz3PNp6",
+        "shipping": 1,
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "ULTRABOOST LAMP13",
+        "price": 420,
+        "stock": 20,
+        "ratings": 4,
+        "img" : "https://ibb.co/nfF1FWj",
+        "shipping": 1,
+        "quantity": 0
+      }
+     
+]
