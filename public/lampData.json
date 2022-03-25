@@ -11,7 +11,7 @@
       "quantity": 0
     },
     {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b1-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP02",
         "price": 420,
         "stock": 20,
@@ -21,7 +21,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b2-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP03",
         "price": 420,
         "stock": 20,
@@ -31,7 +31,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b3-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP04",
         "price": 420,
         "stock": 20,
@@ -41,7 +41,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b4-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP05",
         "price": 420,
         "stock": 20,
@@ -51,7 +51,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b5-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP06",
         "price": 420,
         "stock": 20,
@@ -61,7 +61,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e1369-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP07",
         "price": 420,
         "stock": 20,
@@ -71,7 +71,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e1379-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP08",
         "price": 420,
         "stock": 20,
@@ -81,7 +81,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b8-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP09",
         "price": 420,
         "stock": 20,
@@ -91,7 +91,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2554-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP10",
         "price": 420,
         "stock": 20,
@@ -101,7 +101,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d64-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP11",
         "price": 420,
         "stock": 20,
@@ -111,7 +111,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54554b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP12",
         "price": 420,
         "stock": 20,
@@ -121,7 +121,7 @@
         "quantity": 0
       },
       {
-        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "id": "124e13b9-2d54-4b4f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP13",
         "price": 420,
         "stock": 20,
