@@ -21,7 +21,7 @@ const Store = () => {
                 <h1 className='header-line' >LAMP STORE </h1>
                 <h3 className='header-line2'>Chose Your Favorite Lamp</h3>
             </div>
-            <div>
+            <div className='cart-container'>
             {
                    products.map(product=><Products
                    key={product.id}

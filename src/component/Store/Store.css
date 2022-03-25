@@ -11,3 +11,8 @@
 .header-line2{
     color: orange;
 }
+
+.cart-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}

@@ -1,12 +1,17 @@
 import React from 'react';
+import './Products.css';
 
 const Products = (props) => {
-    console.log(props.name)
-    const{name, price, img, stock}=props
+
+    const{name, price, img}=props.product
+    console.log(img);
     return (
         <div>
-            <div>
-                <h2>{name}</h2>
+              <div className='card-body'>
+                <img src={img} alt="" srcset="" />
+                <h4>{name}</h4>
+                <h4>{price}</h4>
+                <button>Add To Cart</button>
             </div>
         </div>
     );

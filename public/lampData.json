@@ -1,22 +1,12 @@
 
 [
     {
-      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
-      "name": "ULTRABOOST LAMP01",
-      "price": 420,
-      "stock": 20,
-      "ratings": 4,
-      "img" : "https://ibb.co/fkTXnMJ",
-      "shipping": 1,
-      "quantity": 0
-    },
-    {
         "id": "124e13b1-2d54-4b2f-a74d-a77b362d6ead",
         "name": "ULTRABOOST LAMP02",
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/0M6YLDz",
+        "img" : "https://i.ibb.co/tMhPNZD/lamp13.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -26,7 +16,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/TvkNXTG",
+        "img" : "https://i.ibb.co/Gp9gJP7/lamp12.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -36,7 +26,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/cLcLybw",
+        "img" : "https://i.ibb.co/822RFpY/lamp11.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -46,7 +36,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/ZmgBWj7",
+        "img" : "https://i.ibb.co/qrnvTr3/lamp10.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -56,7 +46,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/BKsMZ6P",
+        "img" : "https://i.ibb.co/RjgS5Hy/lamp9.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -66,7 +56,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/7Gy9hTQ",
+        "img" : "https://i.ibb.co/7pRQsLn/lamp8.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -76,7 +66,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/mzVN0PV",
+        "img" : "https://i.ibb.co/n6qstKM/lamp7.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -86,7 +76,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/9hK8M9C",
+        "img" : "https://i.ibb.co/JspsQSM/lamp6.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -96,7 +86,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/VSWmbPt",
+        "img" : "https://i.ibb.co/9VSv5G8/lamp5.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -106,7 +96,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/MDZ3gwY",
+        "img" : "https://i.ibb.co/9TXQGzf/lamp4.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -116,7 +106,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/Cz3PNp6",
+        "img" : "https://i.ibb.co/wWrPc90/lamp3.png",
         "shipping": 1,
         "quantity": 0
       },
@@ -126,7 +116,7 @@
         "price": 420,
         "stock": 20,
         "ratings": 4,
-        "img" : "https://ibb.co/nfF1FWj",
+        "img" : "https://i.ibb.co/gdzjXqN/lamp2.png",
         "shipping": 1,
         "quantity": 0
       }
