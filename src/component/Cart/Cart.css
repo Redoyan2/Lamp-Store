@@ -1,0 +1,21 @@
+
+
+.summary-body{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    color: black;
+    position: sticky;
+    top: 5px;
+    
+}
+.summary-body img{
+    margin: 3%;
+    border: 1px solid orangered;
+    border-radius: 50%;
+    width: 10%;
+    height: 7%;
+}
+.summary-body h4, span{
+    margin: 5px 10px;
+}
