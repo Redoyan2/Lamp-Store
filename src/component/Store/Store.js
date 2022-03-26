@@ -17,8 +17,14 @@ const Store = () => {
     }, [])
 
     const handleAddToCart = (products)=>{
-        const newCart = [...cart, products]
+        if(cart.length<=3){
+            const newCart = [...cart, products]
         setCart(newCart);
+        }
+        else{
+            alert("Please no more !!!!")
+        }
+        
        
     }
 
@@ -32,7 +38,9 @@ const Store = () => {
             </div>
             <div className='products-container'>
                 <div className='cart-container'>
+                  
                     {
+                        
                         products.map(product => <Products
                             key={product.id}
                             product={product}
