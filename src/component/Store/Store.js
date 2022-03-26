@@ -27,6 +27,14 @@ const Store = () => {
         
        
     }
+    const randomLampAdd=()=>{
+        const num = parseInt((Math.random()*5))
+        const myLamp = cart[num].name
+        const divArea=document.getElementById('div-area');
+        divArea.innerText=`Your Lamp is:
+        ${myLamp}`
+        
+    }
 
 
 
@@ -52,6 +60,7 @@ const Store = () => {
                 </div>
                 <div className='summary-section'>
                     <h1>Selected Lamp</h1>
+                    <h1 id='div-area'></h1>
                  {
                      cart.map(lamp=><Cart
                      key={lamp.id}
@@ -59,7 +68,7 @@ const Store = () => {
                      >
                      </Cart>)
                  }
-                 <button className='btn-1'>Choose One</button> <br></br>
+                 <button onClick={randomLampAdd} className='btn-1'>Choose One</button> <br></br>
                  <button className='btn-1'>Choose Again</button>
                   
                 </div>
