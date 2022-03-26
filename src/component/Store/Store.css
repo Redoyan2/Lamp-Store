@@ -47,3 +47,12 @@
     color:whitesmoke;
 }
 
+
+@media (max-width: 576px){
+    .cart-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+}
+

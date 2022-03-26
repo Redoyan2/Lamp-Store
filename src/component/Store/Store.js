@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
+import Defination from '../Defination/Defination';
 import Products from '../Products/Products';
 import './Store.css';
 
@@ -71,6 +72,9 @@ const Store = () => {
                  <button onClick={randomLampAdd} className='btn-1'>Choose One</button> <br></br>
                  <button className='btn-1'>Choose Again</button>
                   
+                </div>
+                <div>
+                    <Defination></Defination>
                 </div>
             </div>
         </div>
