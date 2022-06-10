@@ -43,7 +43,7 @@ const Store = () => {
         <div>
             <div className='header'>
                 <h1 className='header-line' >LAMP STORE </h1>
-                <h3 className='header-line2'>Chose Your Favorite Lamp</h3>
+                <h3 className='header-line2'>Chose Your Favorite Lamps</h3>
             </div>
             <div className='products-container'>
                 <div className='cart-container'>
